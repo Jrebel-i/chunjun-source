@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flinkx-clients/flinkx-clients.iml" filepath="$PROJECT_DIR$/flinkx-clients/flinkx-clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-binlog/flinkx-connector-binlog.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-binlog/flinkx-connector-binlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-clickhouse/flinkx-connector-clickhouse.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-clickhouse/flinkx-connector-clickhouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-db2/flinkx-connector-db2.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-db2/flinkx-connector-db2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-dm/flinkx-connector-dm.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-dm/flinkx-connector-dm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-doris/flinkx-connector-doris.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-doris/flinkx-connector-doris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-elasticsearch-base/flinkx-connector-elasticsearch-base.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-elasticsearch-base/flinkx-connector-elasticsearch-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-elasticsearch7/flinkx-connector-elasticsearch7.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-elasticsearch7/flinkx-connector-elasticsearch7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-emqx/flinkx-connector-emqx.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-emqx/flinkx-connector-emqx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-file/flinkx-connector-file.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-file/flinkx-connector-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-filesystem/flinkx-connector-filesystem.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-filesystem/flinkx-connector-filesystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-ftp/flinkx-connector-ftp.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-ftp/flinkx-connector-ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-gbase/flinkx-connector-gbase.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-gbase/flinkx-connector-gbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-greenplum/flinkx-connector-greenplum.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-greenplum/flinkx-connector-greenplum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hbase-1.4/flinkx-connector-hbase-1.4.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hbase-1.4/flinkx-connector-hbase-1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hbase-base/flinkx-connector-hbase-base.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hbase-base/flinkx-connector-hbase-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hdfs/flinkx-connector-hdfs.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hdfs/flinkx-connector-hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hive/flinkx-connector-hive.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hive/flinkx-connector-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-http/flinkx-connector-http.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-http/flinkx-connector-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-inceptor/flinkx-connector-inceptor.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-inceptor/flinkx-connector-inceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-influxdb/flinkx-connector-influxdb.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-influxdb/flinkx-connector-influxdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-jdbc-base/flinkx-connector-jdbc-base.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-jdbc-base/flinkx-connector-jdbc-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kafka/flinkx-connector-kafka.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kafka/flinkx-connector-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kingbase/flinkx-connector-kingbase.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kingbase/flinkx-connector-kingbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kudu/flinkx-connector-kudu.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kudu/flinkx-connector-kudu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mongodb/flinkx-connector-mongodb.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mongodb/flinkx-connector-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mysql/flinkx-connector-mysql.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mysql/flinkx-connector-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mysqld/flinkx-connector-mysqld.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mysqld/flinkx-connector-mysqld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-oracle/flinkx-connector-oracle.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-oracle/flinkx-connector-oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-oraclelogminer/flinkx-connector-oraclelogminer.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-oraclelogminer/flinkx-connector-oraclelogminer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-pgwal/flinkx-connector-pgwal.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-pgwal/flinkx-connector-pgwal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-postgresql/flinkx-connector-postgresql.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-postgresql/flinkx-connector-postgresql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-redis/flinkx-connector-redis.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-redis/flinkx-connector-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-saphana/flinkx-connector-saphana.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-saphana/flinkx-connector-saphana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-socket/flinkx-connector-socket.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-socket/flinkx-connector-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-solr/flinkx-connector-solr.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-solr/flinkx-connector-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-sqlserver/flinkx-connector-sqlserver.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-sqlserver/flinkx-connector-sqlserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-sqlservercdc/flinkx-connector-sqlservercdc.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-sqlservercdc/flinkx-connector-sqlservercdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-stream/flinkx-connector-stream.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connector-stream/flinkx-connector-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connectors.iml" filepath="$PROJECT_DIR$/flinkx-connectors/flinkx-connectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-core/flinkx-core.iml" filepath="$PROJECT_DIR$/flinkx-core/flinkx-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirty.iml" filepath="$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirtydata-collector-log/flinkx-dirty-log.iml" filepath="$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirtydata-collector-log/flinkx-dirty-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirtydata-collector-mysql/flinkx-dirty-mysql.iml" filepath="$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirtydata-collector-mysql/flinkx-dirty-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-docker/flinkx-docker.iml" filepath="$PROJECT_DIR$/flinkx-docker/flinkx-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-formats/flinkx-formats.iml" filepath="$PROJECT_DIR$/flinkx-formats/flinkx-formats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-metrics/flinkx-metrics.iml" filepath="$PROJECT_DIR$/flinkx-metrics/flinkx-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-mysql/flinkx-metrics-mysql.iml" filepath="$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-mysql/flinkx-metrics-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-prometheus/flinkx-metrics-prometheus.iml" filepath="$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-prometheus/flinkx-metrics-prometheus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-rdb/flinkx-metrics-rdb.iml" filepath="$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-rdb/flinkx-metrics-rdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-parent.iml" filepath="$PROJECT_DIR$/flinkx-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-restore/flinkx-restore.iml" filepath="$PROJECT_DIR$/flinkx-restore/flinkx-restore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-restore/flinkx-restore-common/flinkx-restore-common.iml" filepath="$PROJECT_DIR$/flinkx-restore/flinkx-restore-common/flinkx-restore-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkx-restore/flinkx-restore-mysql/flinkx-restore-mysql.iml" filepath="$PROJECT_DIR$/flinkx-restore/flinkx-restore-mysql/flinkx-restore-mysql.iml" />
+    </modules>
+  </component>
+</project>

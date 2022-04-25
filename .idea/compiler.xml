@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flinkx-clients" />
+        <module name="flinkx-connector-binlog" />
+        <module name="flinkx-connector-clickhouse" />
+        <module name="flinkx-connector-db2" />
+        <module name="flinkx-connector-dm" />
+        <module name="flinkx-connector-doris" />
+        <module name="flinkx-connector-elasticsearch-base" />
+        <module name="flinkx-connector-elasticsearch7" />
+        <module name="flinkx-connector-emqx" />
+        <module name="flinkx-connector-file" />
+        <module name="flinkx-connector-filesystem" />
+        <module name="flinkx-connector-ftp" />
+        <module name="flinkx-connector-gbase" />
+        <module name="flinkx-connector-greenplum" />
+        <module name="flinkx-connector-hbase-1.4" />
+        <module name="flinkx-connector-hbase-base" />
+        <module name="flinkx-connector-hdfs" />
+        <module name="flinkx-connector-hive" />
+        <module name="flinkx-connector-http" />
+        <module name="flinkx-connector-inceptor" />
+        <module name="flinkx-connector-influxdb" />
+        <module name="flinkx-connector-jdbc-base" />
+        <module name="flinkx-connector-kafka" />
+        <module name="flinkx-connector-kingbase" />
+        <module name="flinkx-connector-kudu" />
+        <module name="flinkx-connector-mongodb" />
+        <module name="flinkx-connector-mysql" />
+        <module name="flinkx-connector-mysqld" />
+        <module name="flinkx-connector-oracle" />
+        <module name="flinkx-connector-oraclelogminer" />
+        <module name="flinkx-connector-pgwal" />
+        <module name="flinkx-connector-postgresql" />
+        <module name="flinkx-connector-redis" />
+        <module name="flinkx-connector-saphana" />
+        <module name="flinkx-connector-socket" />
+        <module name="flinkx-connector-solr" />
+        <module name="flinkx-connector-sqlserver" />
+        <module name="flinkx-connector-sqlservercdc" />
+        <module name="flinkx-connector-stream" />
+        <module name="flinkx-core" />
+        <module name="flinkx-dirty-log" />
+        <module name="flinkx-dirty-mysql" />
+        <module name="flinkx-docker" />
+        <module name="flinkx-metrics-mysql" />
+        <module name="flinkx-metrics-prometheus" />
+        <module name="flinkx-metrics-rdb" />
+        <module name="flinkx-restore-common" />
+        <module name="flinkx-restore-mysql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flinkx-clients" target="1.8" />
+      <module name="flinkx-connector-binlog" target="1.8" />
+      <module name="flinkx-connector-clickhouse" target="1.8" />
+      <module name="flinkx-connector-db2" target="1.8" />
+      <module name="flinkx-connector-dm" target="1.8" />
+      <module name="flinkx-connector-doris" target="1.8" />
+      <module name="flinkx-connector-elasticsearch-base" target="1.8" />
+      <module name="flinkx-connector-elasticsearch7" target="1.8" />
+      <module name="flinkx-connector-emqx" target="1.8" />
+      <module name="flinkx-connector-file" target="1.8" />
+      <module name="flinkx-connector-filesystem" target="1.8" />
+      <module name="flinkx-connector-ftp" target="1.8" />
+      <module name="flinkx-connector-gbase" target="1.8" />
+      <module name="flinkx-connector-greenplum" target="1.8" />
+      <module name="flinkx-connector-hbase-1.4" target="1.8" />
+      <module name="flinkx-connector-hbase-base" target="1.8" />
+      <module name="flinkx-connector-hdfs" target="1.8" />
+      <module name="flinkx-connector-hive" target="1.8" />
+      <module name="flinkx-connector-http" target="1.8" />
+      <module name="flinkx-connector-inceptor" target="1.8" />
+      <module name="flinkx-connector-influxdb" target="1.8" />
+      <module name="flinkx-connector-jdbc-base" target="1.8" />
+      <module name="flinkx-connector-kafka" target="1.8" />
+      <module name="flinkx-connector-kingbase" target="1.8" />
+      <module name="flinkx-connector-kudu" target="1.8" />
+      <module name="flinkx-connector-mongodb" target="1.8" />
+      <module name="flinkx-connector-mysql" target="1.8" />
+      <module name="flinkx-connector-mysqld" target="1.8" />
+      <module name="flinkx-connector-oracle" target="1.8" />
+      <module name="flinkx-connector-oraclelogminer" target="1.8" />
+      <module name="flinkx-connector-pgwal" target="1.8" />
+      <module name="flinkx-connector-postgresql" target="1.8" />
+      <module name="flinkx-connector-redis" target="1.8" />
+      <module name="flinkx-connector-saphana" target="1.8" />
+      <module name="flinkx-connector-socket" target="1.8" />
+      <module name="flinkx-connector-solr" target="1.8" />
+      <module name="flinkx-connector-sqlserver" target="1.8" />
+      <module name="flinkx-connector-sqlservercdc" target="1.8" />
+      <module name="flinkx-connector-stream" target="1.8" />
+      <module name="flinkx-connectors" target="1.8" />
+      <module name="flinkx-core" target="1.8" />
+      <module name="flinkx-dirty" target="1.8" />
+      <module name="flinkx-dirty-log" target="1.8" />
+      <module name="flinkx-dirty-mysql" target="1.8" />
+      <module name="flinkx-docker" target="1.8" />
+      <module name="flinkx-formats" target="1.8" />
+      <module name="flinkx-metrics" target="1.8" />
+      <module name="flinkx-metrics-mysql" target="1.8" />
+      <module name="flinkx-metrics-prometheus" target="1.8" />
+      <module name="flinkx-metrics-rdb" target="1.8" />
+      <module name="flinkx-parent" target="1.8" />
+      <module name="flinkx-restore" target="1.8" />
+      <module name="flinkx-restore-common" target="1.8" />
+      <module name="flinkx-restore-mysql" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

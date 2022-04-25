@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-clients" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-binlog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-clickhouse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-db2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-dm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-doris" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-elasticsearch-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-elasticsearch7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-emqx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-filesystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-ftp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-gbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-greenplum" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hbase-1.4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hbase-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-inceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-influxdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-jdbc-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kingbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-kudu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-mysqld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-oracle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-oraclelogminer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-pgwal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-postgresql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-saphana" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-socket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-sqlserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-sqlservercdc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-connectors/flinkx-connector-stream" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-dirtydata-collectors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirtydata-collector-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-dirtydata-collectors/flinkx-dirtydata-collector-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-docker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-formats" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-metrics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-prometheus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-metrics/flinkx-metrics-rdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-restore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-restore/flinkx-restore-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flinkx-restore/flinkx-restore-mysql" charset="UTF-8" />
+  </component>
+</project>
